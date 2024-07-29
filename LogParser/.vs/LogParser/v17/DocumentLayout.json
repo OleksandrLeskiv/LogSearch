@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Myroslav PC\\source\\repos\\LogParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A9F82E-213E-44E1-A781-77BD6293CB08}|LogParser\\LogParser.csproj|c:\\users\\myroslav pc\\source\\repos\\logparser\\logparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A9F82E-213E-44E1-A781-77BD6293CB08}|LogParser\\LogParser.csproj|solutionrelative:logparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Myroslav PC\\source\\repos\\LogParser\\LogParser\\Program.cs",
+              "RelativeDocumentMoniker": "LogParser\\Program.cs",
+              "ToolTip": "C:\\Users\\Myroslav PC\\source\\repos\\LogParser\\LogParser\\Program.cs",
+              "RelativeToolTip": "LogParser\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:37:12.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

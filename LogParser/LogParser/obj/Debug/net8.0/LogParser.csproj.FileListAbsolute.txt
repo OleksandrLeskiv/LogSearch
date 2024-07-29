@@ -1,0 +1,14 @@
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\bin\Debug\net8.0\LogParser.exe
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\bin\Debug\net8.0\LogParser.deps.json
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\bin\Debug\net8.0\LogParser.runtimeconfig.json
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\bin\Debug\net8.0\LogParser.dll
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\bin\Debug\net8.0\LogParser.pdb
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.AssemblyInfoInputs.cache
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.AssemblyInfo.cs
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.csproj.CoreCompileInputs.cache
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.dll
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\refint\LogParser.dll
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.pdb
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\LogParser.genruntimeconfig.cache
+C:\Users\Myroslav PC\source\repos\LogParser\LogParser\obj\Debug\net8.0\ref\LogParser.dll

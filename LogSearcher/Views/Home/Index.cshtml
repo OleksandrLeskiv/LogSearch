@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model SearchModel
+
+<form asp-action="Find" method="post">
+    <div class="input-group">
+        <input type="text" class="form-control me-2" asp-for="InputText" placeholder="Enter your wildcard here">
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-outline-secondary">Search</button>
+        </div>
+    </div>
+</form>
+
+@if(Model.Response != null && Model.Response!.Any())
+{
+    @foreach (var file in Model.Response)
+    {
+        <div class="my-3 mx-auto">@System.IO.Path.GetFileName(file.Key)</div>
+
+        @foreach (SearchResult result in file.Value ?? Enumerable.Empty<SearchResult>())
+        {
+            <div class="p-2 mb-1 border rounded w-100">
+                <a>@result.LogText</a>
+            </div>
+        }
+
+        <hr />
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Myroslav PC\\source\\repos\\LogParser\\LogParser\\logs\"\r\n\r\n\"[ERR] or [INF]\"\r\n"
+    }
+  }
+}
